@@ -152,7 +152,7 @@ export const Hero = () => {
                 href="https://linkedin.com" 
                 target="_blank" 
                 rel="noopener noreferrer"
-                aria-label="Visit my LinkedIn profile"
+                aria-label="Visit my inkedIn profile"
                 role="listitem"
               >
                 <Suspense fallback={<div style={{ width: '1.5rem', height: '1.5rem' }} />}>
